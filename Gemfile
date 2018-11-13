@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 group :development, :test do
   gem 'rake'
-  gem 'rspec', "~> 3.4.0",      :require => false
+  gem 'rspec', "~> 3.8.0",      :require => false
   gem 'mocha', "~> 0.10.5",     :require => false
   gem 'puppetlabs_spec_helper', :require => false
   gem 'puppet-blacksmith',      :require => false
